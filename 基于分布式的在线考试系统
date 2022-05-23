@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T07:25:28.259Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="ooX_HP0RgrQfEuVSXVQO" version="18.0.5" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-05-23T07:26:33.035Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="Y-0gq49nEDuhRhXB4eIy" version="18.0.5" type="github" pages="9">
   <diagram id="bV3xl21qZOPapzYohIQI" name="考生用例图">
     <mxGraphModel dx="946" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -766,8 +766,39 @@
         <mxCell id="2kbCMFJVkT-EaZKds8SR-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="2kbCMFJVkT-EaZKds8SR-28" target="2kbCMFJVkT-EaZKds8SR-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="2kbCMFJVkT-EaZKds8SR-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="2kbCMFJVkT-EaZKds8SR-28" target="2kbCMFJVkT-EaZKds8SR-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2kbCMFJVkT-EaZKds8SR-28" value="输入用户名" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2kbCMFJVkT-EaZKds8SR-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="2kbCMFJVkT-EaZKds8SR-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="140" y="270" />
+              <mxPoint x="140" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2kbCMFJVkT-EaZKds8SR-33" value="N&lt;br&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2kbCMFJVkT-EaZKds8SR-32">
+          <mxGeometry x="-0.2679" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2kbCMFJVkT-EaZKds8SR-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="2kbCMFJVkT-EaZKds8SR-30" target="2kbCMFJVkT-EaZKds8SR-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2kbCMFJVkT-EaZKds8SR-36" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2kbCMFJVkT-EaZKds8SR-35">
+          <mxGeometry x="0.38" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2kbCMFJVkT-EaZKds8SR-30" value="是否符合要求" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="175" y="230" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2kbCMFJVkT-EaZKds8SR-34" value="输入密码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="340" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
