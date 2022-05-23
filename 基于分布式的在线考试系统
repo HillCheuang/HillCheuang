@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T06:24:23.414Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="DQEX08ZFU56dfThSBo3M" version="18.0.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-05-23T06:25:39.550Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="1IM214qzfehdkuCjtmex" version="18.0.5" type="github" pages="2">
   <diagram id="bV3xl21qZOPapzYohIQI" name="考生用例图">
     <mxGraphModel dx="946" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -58,17 +58,17 @@
         <mxCell id="1-4m3asWrWnlqJzlAiq2-1" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="284" y="250" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1-4m3asWrWnlqJzlAiq2-2" value="考生登陆" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="424" y="130" width="120" height="60" as="geometry" />
+        <mxCell id="1-4m3asWrWnlqJzlAiq2-2" value="管理员登陆" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="424" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1-4m3asWrWnlqJzlAiq2-3" value="个人信息管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="424" y="210" width="120" height="60" as="geometry" />
+        <mxCell id="1-4m3asWrWnlqJzlAiq2-3" value="学生管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="424" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1-4m3asWrWnlqJzlAiq2-4" value="考试" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="424" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="1-4m3asWrWnlqJzlAiq2-4" value="章节管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="424" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1-4m3asWrWnlqJzlAiq2-5" value="查询考试记录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="424" y="370" width="120" height="60" as="geometry" />
+        <mxCell id="1-4m3asWrWnlqJzlAiq2-5" value="试题管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="424" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1-4m3asWrWnlqJzlAiq2-6" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="1-4m3asWrWnlqJzlAiq2-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -97,6 +97,12 @@
             <mxPoint x="434" y="330" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="1-4m3asWrWnlqJzlAiq2-10" value="试卷管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="424" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1-4m3asWrWnlqJzlAiq2-11" value="练习管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="424" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
