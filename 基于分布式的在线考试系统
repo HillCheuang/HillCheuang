@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T06:56:08.838Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="2Ht20H5cQcUTgUkNTnXU" version="18.0.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-05-23T06:57:37.840Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="JUVGCH2eCy6bmfL2BXHN" version="18.0.5" type="github" pages="7">
   <diagram id="bV3xl21qZOPapzYohIQI" name="考生用例图">
     <mxGraphModel dx="946" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -615,7 +615,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J9iTx3GvF7h5SdbaHINt-37" value="隶属" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="J9iTx3GvF7h5SdbaHINt-37" value="构成" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1250" y="160" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
