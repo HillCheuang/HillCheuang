@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T07:26:33.035Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="Y-0gq49nEDuhRhXB4eIy" version="18.0.5" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-05-23T07:26:40.780Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="6__U3w5Z1OfP8j_YVz6R" version="18.0.5" type="github" pages="9">
   <diagram id="bV3xl21qZOPapzYohIQI" name="考生用例图">
     <mxGraphModel dx="946" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -791,7 +791,7 @@
         </mxCell>
         <mxCell id="2kbCMFJVkT-EaZKds8SR-36" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2kbCMFJVkT-EaZKds8SR-35">
           <mxGeometry x="0.38" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="9" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2kbCMFJVkT-EaZKds8SR-30" value="是否符合要求" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
