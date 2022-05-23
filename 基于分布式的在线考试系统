@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T07:20:23.801Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="mdWj1-q4KDh-pE--RvFl" version="18.0.5" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-05-23T07:21:37.143Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="yH_kkPCwpR2yxRkZvwn5" version="18.0.5" type="github" pages="8">
   <diagram id="bV3xl21qZOPapzYohIQI" name="考生用例图">
     <mxGraphModel dx="946" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -651,12 +651,14 @@
             <mxPoint x="9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K9y2NHcvHjAAU_FETrBy-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="K9y2NHcvHjAAU_FETrBy-9" target="K9y2NHcvHjAAU_FETrBy-27">
+        <mxCell id="K9y2NHcvHjAAU_FETrBy-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K9y2NHcvHjAAU_FETrBy-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="370" y="185" />
-              <mxPoint x="370" y="530" />
+              <mxPoint x="370" y="510" />
+              <mxPoint x="300" y="510" />
             </Array>
+            <mxPoint x="240" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="K9y2NHcvHjAAU_FETrBy-8" value="F" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="K9y2NHcvHjAAU_FETrBy-7">
